@@ -1,3 +1,5 @@
+#for read 
+
 #HelloCharts for Android
 
 Charting library for Android compatible with API 8+(Android 2.2).
